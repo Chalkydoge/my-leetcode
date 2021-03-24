@@ -5,4 +5,4 @@
 ## 目录
 
 - 计算器与NPL表达式
-  - 逆波兰表达式求值 [link](raw_code/150.md)
+  - 逆波兰表达式求值 [link](codes/raw_code/150.md)
